@@ -1,5 +1,5 @@
 # DevConnector
-https://fierce-scrubland-24374.herokuapp.com/login
+https://fierce-scrubland-24374.herokuapp.com
 for production environment use 
 {
   "mongoURI": "yourURI",
