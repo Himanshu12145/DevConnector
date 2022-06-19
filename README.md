@@ -1,14 +1,12 @@
-# DevConnector
-https://fierce-scrubland-24374.herokuapp.com
+# [DevConnector](https://fierce-scrubland-24374.herokuapp.com)
+
 
 > Social network for developers
 > It is a MERN stack based project 
 
 ## Preview of website 🚀
 
-
-
-https://user-images.githubusercontent.com/66507003/174469573-70f2828e-d20d-43a2-a731-79d1fb5e8c55.mp4
+![](https://user-images.githubusercontent.com/66507003/174469573-70f2828e-d20d-43a2-a731-79d1fb5e8c55.mp4)
 
 
 ---
